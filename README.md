@@ -5,7 +5,7 @@ Hi! My name is **Diego Napoli**, I'm from Brazil 🇧🇷 and a computer enginee
 I'm passionate about solving problems, and challenges. Open to new opportunities and face changes
 
 - 📍 Belo Horizonte - Minas Gerais
-- 🖥️ Process Automation Developer at [Vale](http://www.vale.com/EN/Pages/Landing.aspx)
+- 🖥️ Software Engineer at [Buser](https://buser.com.br/)
 - 🔗 My personal [website](https://dnapoli.netlify.app/)
 
 **Connect with me**
