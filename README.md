@@ -2,7 +2,7 @@
 
 Hi! My name is **Diego Napoli**, I'm from Brazil 🇧🇷 and a computer engineer that has been working as a backend developer since 2016.
 
-I'm passionate about solving problems, and challenges. Open to new opportunities and face changes
+I'm passionate about solving problems, and challenges.
 
 - 📍 Belo Horizonte - Minas Gerais
 - 🖥️ Software Engineer at [Branching Minds](http://branchingminds.com)
